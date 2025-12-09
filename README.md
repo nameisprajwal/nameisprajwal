@@ -1,4 +1,4 @@
-## 💻 Java Developer | 🧠 ML Engineer in Progress | ☁️ Cloud Practitioner
+## 💻 Java Developer | ⚙️ ML Engineer in Progress | ☁️ Cloud Practitioner
 
 Building scalable systems with **Java, Spring Boot, Microservices**, and exploring the world of **Python + Machine Learning**.  
 Experienced in **financial services**, backend engineering, virtual machines on **AWS & Azure**, and performance-focused development.
